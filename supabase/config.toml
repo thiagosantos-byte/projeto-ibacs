@@ -1,0 +1,2 @@
+[functions.inclusive-assistant]
+verify_jwt = true
